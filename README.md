@@ -1,6 +1,6 @@
-# hello_world_flutter_app
+# Flutter StartUp Name Generator Mobile App
 
-Hello World Flutter Application
+Startup Name Generator Flutter Application
 
 ## Getting Started
 
